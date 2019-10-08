@@ -386,9 +386,9 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.3.6"
 
-litecore-lib@^0.13.19:
-  version "0.13.21"
-  resolved "https://registry.yarnpkg.com/litecore-lib/-/litecore-lib-0.13.21.tgz#a56bfca333b641c9cffb3d3e266de83132ab0697"
+litecore-lib@^0.13.22:
+  version "0.13.22"
+  resolved "https://registry.yarnpkg.com/litecore-lib/-/litecore-lib-0.13.22.tgz#7d7406be67582ee5fdf2ac0004ea6ad1d1d0d3f0"
   dependencies:
     bn.js "=2.0.4"
     bs58 "=2.0.0"
@@ -398,11 +398,11 @@ litecore-lib@^0.13.19:
     lodash "=3.10.1"
     scryptsy "=2.0.0"
 
-litecore-message@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/litecore-message/-/litecore-message-1.0.4.tgz#8998a0dd844ddd7a6e8a50ce31822ac6b6af6a1a"
+litecore-message@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/litecore-message/-/litecore-message-1.0.5.tgz#b95155c79f4794f2c70cdc751ddd6e7f20ba2712"
   dependencies:
-    litecore-lib "^0.13.19"
+    litecore-lib "^0.13.22"
 
 lodash@=3.10.1:
   version "3.10.1"
@@ -683,8 +683,8 @@ to-iso-string@0.0.2:
   resolved "https://registry.yarnpkg.com/to-iso-string/-/to-iso-string-0.0.2.tgz#4dc19e664dfccbe25bd8db508b00c6da158255d1"
 
 tough-cookie@~2.3.0:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-2.3.2.tgz#f081f76e4c85720e6c37a5faced737150d84072a"
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-2.3.4.tgz#ec60cee38ac675063ffc97a5c18970578ee83655"
   dependencies:
     punycode "^1.4.1"
 
